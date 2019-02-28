@@ -1,0 +1,9 @@
+    Athens is home to Asian restaurants that serve food from all over Asia. There are Chinese, Japanese, Thai, Vietnamese, and Indian restaurants just to name a few.
+
+    Chinese food is characterized by its unique use of sweet, salty, hot, and sour flavors. Popular dishes include Kung Pao Chicken, Sweet and Sour Pork, and Hot and Sour Soup.
+
+    Japanese food is characterized by the dishes which are usually served in bite sized pieces with each bite containing the meat, rice, and vegetables. Popular dishes include sushi, sashimi, and tempura.
+
+    Thai food is characterized by its powerful spiciness, but wins you over with its masterful balance of the five main flavors: sour, sweet, bitter, sour, and spicy. Popular dishes include Pad Thai, Tom Yum, and Thai Curry.
+
+    Indian food is characterized its heavy use of spices in its meats, vegetables and curries. Popular dishes include Butter Chicken, Tikki Masala, and Tandoori Chicken.

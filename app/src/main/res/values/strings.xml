@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Restaurant Choices in Athens, GA</string>
+    
+    <string-array name="foodTypes">
+        <item>Mexican</item>
+        <item>American</item>
+        <item>Pizza</item>
+        <item>Asian</item>
+        <item>BBQ</item>
+    </string-array>
+        
+</resources>
